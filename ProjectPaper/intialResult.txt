@@ -1,6 +1,0 @@
-S~NaN~O~_2~	+	2~M~8~	right_arrow	S~NaN~	+	2~M~8~O~	
-S~NaN~O~2~	+	4~M~8~	right_arrow	M~8~2~S~I~	+	2~M~8~O~	
-K~2~S~l~F~_6~	+	4~K~	right_arrow	6~K~F~	+	S~I~	
-S~I~F~_4~	+	4~K~	right_arrow	4~K~F~	+	S~1~	
-S~NaN~O~2~	+	2~C~	+	2~C~NaN~_2~	right_arrow	S~1~C~I~_4~	+	2~C~O~	up	
-S~NaN~C~l~_4~	+	4~N~a~	right_arrow	4~N~8~C~1~	+	S~NaN~	
