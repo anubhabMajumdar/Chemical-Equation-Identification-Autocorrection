@@ -1,0 +1,4 @@
+P~4~	+	5~O~_2~	right_arrow	^P~4~^O~1~0~	
+P~4~	+	3~N~3~O~H~	+	3~H~_2~O~	right_arrow	P~H~_3~	+	3~N~El~H~_2~P~O~_2~	
+P~4~	+	3~O~H~	+	3~H~_2~O~	right_arrow	P~H~_3~	+	3~H~_2~P~O~_2~	
+6~C~a~	+	P~4~	right_arrow	2~C~3~_3~P~_2~	

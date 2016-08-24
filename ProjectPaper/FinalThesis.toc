@@ -1,0 +1,27 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {section}{\numberline {1.1}Previous Works}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Motivation}{4}{section.1.2}
+\contentsline {chapter}{\numberline {2}Proposed Work}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Pre-Processing}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Equation Segmentation}{6}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Text line Segmentation}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Creation of word blobs in Text lines}{8}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Operator identification}{9}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Segmentation of DE zones}{11}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Experimental Results}{12}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Error Analysis}{13}{subsection.2.2.6}
+\contentsline {subsubsection}{Segmentation error}{13}{section*.12}
+\contentsline {section}{\numberline {2.3}Classification of segmented DE zones}{13}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Experimental Results}{15}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Error Analysis}{16}{subsection.2.3.2}
+\contentsline {subsubsection}{Classification error}{16}{section*.18}
+\contentsline {section}{\numberline {2.4}Auto correction of chemical compounds and the equation}{16}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Coefficient Extraction}{18}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}State separation}{19}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Auto correction of the formula unit}{19}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Auto correction of the entire equation using Context Table}{20}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Experimental Result}{22}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Error Analysis}{24}{subsection.2.4.6}
+\contentsline {subsubsection}{Auto Correction Error}{24}{section*.27}
+\contentsline {chapter}{\numberline {3}Conclusion}{25}{chapter.3}

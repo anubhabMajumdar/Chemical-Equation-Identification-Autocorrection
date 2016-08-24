@@ -1,0 +1,8 @@
+3SiCl4	+	4Al	right_arrow	3Si	+	4AlCl3	
+SiCl4	+	2Zn	right_arrow	Si	+	2ZnCl2	
+3SiO2	+	4Al	right_arrow	3Si	+	2Al2O3	
+SiO2(s)	+	2C(s)	right_arrow	Si(s)	+	2CO(g)	
+2SiC(s)	+	SiO2(s)	right_arrow	3Si(s)	+	2CO(g)	
+SiCl4(l)	+	2H2(g)	right_arrow	Si(s)	+	4HCl(g)	
+SiH4(g)	right_arrow	Si(s)	+	2H2(g)	
+Si(s)	+	O2(g)	right_arrow	SiO2(s)	

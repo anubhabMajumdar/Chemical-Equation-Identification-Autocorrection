@@ -1,0 +1,23 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Previous Works}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Motivation}{chapter.1}% 3
+\BOOKMARK [0][-]{chapter.2}{Proposed Work}{}% 4
+\BOOKMARK [1][-]{section.2.1}{Pre-Processing}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.2}{Equation Segmentation}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.2.1}{Text line Segmentation}{section.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.2}{Creation of word blobs in Text lines}{section.2.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.3}{Operator identification}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.4}{Segmentation of DE zones}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.5}{Experimental Results}{section.2.2}% 11
+\BOOKMARK [2][-]{subsection.2.2.6}{Error Analysis}{section.2.2}% 12
+\BOOKMARK [1][-]{section.2.3}{Classification of segmented DE zones}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.3.1}{Experimental Results}{section.2.3}% 14
+\BOOKMARK [2][-]{subsection.2.3.2}{Error Analysis}{section.2.3}% 15
+\BOOKMARK [1][-]{section.2.4}{Auto correction of chemical compounds and the equation}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.4.1}{Coefficient Extraction}{section.2.4}% 17
+\BOOKMARK [2][-]{subsection.2.4.2}{State separation}{section.2.4}% 18
+\BOOKMARK [2][-]{subsection.2.4.3}{Auto correction of the formula unit}{section.2.4}% 19
+\BOOKMARK [2][-]{subsection.2.4.4}{Auto correction of the entire equation using Context Table}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.5}{Experimental Result}{section.2.4}% 21
+\BOOKMARK [2][-]{subsection.2.4.6}{Error Analysis}{section.2.4}% 22
+\BOOKMARK [0][-]{chapter.3}{Conclusion}{}% 23

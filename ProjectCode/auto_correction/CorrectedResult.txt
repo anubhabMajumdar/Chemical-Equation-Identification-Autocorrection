@@ -1,0 +1,2 @@
+2HNO3	+	3H2S	right_arrow	2NO	+	4H2O	+	3S	down	
+

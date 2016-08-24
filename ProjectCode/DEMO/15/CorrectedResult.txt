@@ -1,0 +1,4 @@
+P4	+	5O2	right_arrow	P4O10	
+P4	+	3NaOH	+	3H2O	right_arrow	PH3	+	3NaH2PO2	
+P4	+	3OH	+	3H2O	right_arrow	PH3	+	3H2PO2	
+6Ca	+	P4	right_arrow	2Ca3P2	

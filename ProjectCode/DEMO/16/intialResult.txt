@@ -1,0 +1,2 @@
+C~a~3~(~P~O~4~)~2~	+	3~H~_2~S~O~_4~	right_arrow	3~C~3~S~O~_4~	+	2~H~_3~P~O~_4~	
+H~_3~P~O~_4~	right_arrow	H~P~O~_3~	+	H~_2~O~	

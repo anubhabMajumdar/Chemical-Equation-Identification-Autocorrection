@@ -1,0 +1,15 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2015.1.25)  26 JAN 2015 19:44
+entering extended mode
+**D:/Google*Drive/#ICDAR/ocr/mhchem.sty
+("D:/Google Drive/#ICDAR/ocr/mhchem.sty"
+! Undefined control sequence.
+l.30 \ProvidesPackage
+                     {mhchem}[2015/01/05 v3.18 for typesetting chemical form...
+
+? 
+! Emergency stop.
+l.30 \ProvidesPackage
+                     {mhchem}[2015/01/05 v3.18 for typesetting chemical form...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

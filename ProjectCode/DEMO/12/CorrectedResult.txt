@@ -1,0 +1,6 @@
+SiO2	+	2Mg	right_arrow	Si	+	2MgO	
+SiO2	+	4Mg	right_arrow	Mg2Si	+	2MgO	
+K2SiF6	+	4K	right_arrow	6KF	+	Si	
+SiF4	+	4K	right_arrow	4KF	+	Si	
+SiO2	+	2C	+	2Cl2	right_arrow	SiCl4	+	2CO	up
+SiCl4	+	4Na	right_arrow	4NaCl	+	Si	

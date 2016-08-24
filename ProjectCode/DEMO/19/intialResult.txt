@@ -1,0 +1,5 @@
+C~ll~	+	4~H~N~O~_3~	right_arrow	C~11~(~N~O~3~)~2~	+	2~H~_2~O~	+	2~N~O~_2~	
+2~K~I~	+	4~H~N~O~_3~	right_arrow	2~KN~O~_3~	+	2~N~O~_2~	+	I~2~	+	2~H~_2~O~	
+6~F~6~S~O~_4~	+	3~H~_2~S~O~_4~	+	2~H~N~O~_3~	right_arrow	3~F~6~2~(~S~O~4~)~3~	+	4~H~_2~O~	+	2~N~O~	
+F~C~S~O~_4~	+	N~O~	right_arrow	F~C~S~O~_4~	+	N~O~	
+4~H~N~O~_3~	right_arrow	4~N~O~_2~	+	O~2~	+	2~H~_2~O~	

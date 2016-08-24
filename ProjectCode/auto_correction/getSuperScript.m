@@ -1,0 +1,6 @@
+function []=getSuperScript(operand)
+
+
+
+
+end

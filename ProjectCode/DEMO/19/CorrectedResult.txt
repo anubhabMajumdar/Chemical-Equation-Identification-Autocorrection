@@ -1,0 +1,5 @@
+Cu	+	4HNO3	right_arrow	Cu(NO3)2	+	2H2O	+	2NO2	
+2KI	+	4HNO3	right_arrow	2KNO3	+	2NO2	+	I2	+	2H2O	
+6FeSO4	+	3H2SO4	+	2HNO3	right_arrow	3Fe2(SO4)3	+	4H2O	+	2NO	
+FeSO4	+	NO	right_arrow	FeSO4	+	NO	
+4HNO3	right_arrow	4NO2	+	O2	+	2H2O	

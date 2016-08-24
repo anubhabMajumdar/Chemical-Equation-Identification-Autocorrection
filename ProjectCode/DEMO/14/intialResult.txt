@@ -1,0 +1,2 @@
+3~M~8~	+	N~2~	right_arrow	M~8~3~N~2~	
+M~8~3~N~2~	+	6~H~_2~O~	right_arrow	3~M~8~(~O~H~)~2~	+	2~N~H~_3~	

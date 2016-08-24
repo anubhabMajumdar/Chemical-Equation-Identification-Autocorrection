@@ -1,0 +1,2 @@
+Ca3(PO4)2	+	3H2SO4	right_arrow	3CaSO4	+	2H3PO4	
+H3PO4	right_arrow	HPO3	+	H2O	

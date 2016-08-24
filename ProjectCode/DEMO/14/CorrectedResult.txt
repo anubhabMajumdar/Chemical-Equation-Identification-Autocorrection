@@ -1,0 +1,2 @@
+3Mg	+	N2	right_arrow	Mg3N2	
+Mg3N2	+	6H2O	right_arrow	3Mg(OH)2	+	2NH3

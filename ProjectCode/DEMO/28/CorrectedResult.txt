@@ -1,0 +1,8 @@
+Pb(NO2)2	->	PbO	+	NO	+	NO2	
+NH4NO2	->	N2	+	2H2O	
+NaNO2	+	HCl	->	NaCl	+	HNO2	
+3HNO2	->	HNO3	+	2NO	+	H2O	
+2NO	+	O2	->	2NO2	
+2KMnO4	+	3H2SO4	+	5NaNO2	->	K2SO4	+	2MnSO4	+	3H2O	+	5NaNO3	
+NaNO3(s)	+	H2SO4(aq)	->	NaHSO4(aq)	+	HNO3(aq)	
+KNO3	+	H2SO4(aq)	->	KHSO4(aq)	+	HNO3(aq)	

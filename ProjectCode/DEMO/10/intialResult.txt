@@ -1,0 +1,8 @@
+3~S~I~C~I~_4~	+	4~A~l~	right_arrow	3~S~NaN~	+	4~A~I~C~I~_3~	
+S~NaN~C~l~_4~	+	2~Z~n~	right_arrow	S~l~	+	2~Z~l1~C~l~_2~	
+3~S~1~O~_2~	+	4~A~l~	right_arrow	3~S~NaN~	+	2~A~1~_2~O~_3~	
+S~I~O~_2~(~S~)~	+	2~C~(~S~)~	right_arrow	S~NaN~(~S~)~	+	2~C~O~(~8~)~	
+2~S~l~C~(~S~)~	+	S~NaN~O~_2~(~S~)~	right_arrow	3~S~I~(~S~)~	+	2~C~O~(~8~)~	
+S~l~C~1~_4~(~I~)~	+	2~H~2~(~8~)~	right_arrow	S~NaN~(~S~)~	+	4~H~C~I~(~8~)~	
+S~1~H~4~(~8~)~	right_arrow	S~NaN~(~S~)~	+	2~H~2~(~8~)~	
+S~NaN~(~S~)~	+	O~2~(~8~)~	right_arrow	S~NaN~O~_2~(~S~)~	
